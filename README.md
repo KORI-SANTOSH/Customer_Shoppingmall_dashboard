@@ -1,4 +1,7 @@
 # Customer_Shipping_dashboard
+
+Live project HTML link :- https://slim-like-hmxr.pagedrop.io
+
 🚀 I just wrapped up a data analytics project I'm genuinely proud of — an interactive Customer Demographics Dashboard built from a real retail dataset.
 
 The dataset had 99,457 shopping transactions from 10 shopping malls in Istanbul, spanning 2021 to 2023 — around ₺251M in total sales. My goal was simple to say but harder to do well: turn a raw CSV into something that actually answers business questions about who the customers are and how they shop.
