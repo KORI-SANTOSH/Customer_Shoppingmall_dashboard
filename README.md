@@ -1,4 +1,4 @@
-# Customer_Shipping_dashboard
+# Customer_Shopping_dashboard
 
 Live project HTML link :- https://slim-like-hmxr.pagedrop.io
 
